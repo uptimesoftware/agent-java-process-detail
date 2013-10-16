@@ -7,13 +7,13 @@ See http://uptimesoftware.github.io for more information.
 
 ### Category
 
-{ page.category }}
+plugin
 
 ### Version Compatibility
 
 
   
-    * up.time Agent Java Process Customization 1.0 - 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
+* up.time Agent Java Process Customization 1.0 - 7.1, 7.0, 6.0, 5.5, 5.4, 5.3, 5.2
   
 
 
@@ -47,5 +47,6 @@ Solaris, Linux, AIX
 
 
 ### Languages Used
+
 * Shell/Batch
 
